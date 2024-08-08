@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "rdm13-db",
+      "Group": "Servers",
+      "Host": "rdm13-db-1",
+      "Port": 5432,
+      "MaintenanceDB": "postgres",
+      "Username": "rdm13",
+      "SSLMode": "prefer"
+    }
+  }
+}
