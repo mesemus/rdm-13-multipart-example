@@ -17,6 +17,12 @@ invenio-cli run
 
 Note: `invenio.cfg` has been changed to add extra permissions, see the bottom of the file.
 
+To test the repository:
+
+1. Create a user and a token and store it in RDM_TOKEN environment variable
+2. Inside the `scripts` folder, create a venv and install the `requirements.txt`
+3. Run any of the python files inside the scripts folder
+
 # Original readme
 
 
